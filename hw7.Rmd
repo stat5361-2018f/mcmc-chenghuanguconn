@@ -37,10 +37,10 @@ library("HI")
 n <- 100
 ## set true value of parameters
 delta <- 0.7
-mu1 <- 7
-mu2 <- 10
-sigmasq1 <- .5
-sigmasq2 <- .5
+mu1 <- 5
+mu2 <- 8
+sigmasq1 <- .3
+sigmasq2 <- .9
 
 ## simulation
 set.seed(123)
